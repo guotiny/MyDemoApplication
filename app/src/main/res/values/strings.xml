@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">我的测试集合</string>
+    <string name="no_demos">没有例子</string>
+
+    <!--vlc视频播放-->
+    <string name="vlcVideoPlay">vlc视频播放</string>
+    <string name="takePhoto">随手拍</string>
+
+    <!-- 图片浏览 -->
+    <string name="only_choose_num">超出可选图片张数</string>
+    <string name="finish">完成</string>
+    <string name="invalidSD">sdcard无效或没有插入！</string>
+    <string name="photo">选择相册</string>
+    <string name="album">相册</string>
+    <string name="preview">预览</string>
+    <string name="unfinished">完成</string>
+    <string name="camera_cancel">取消</string>
+    <string name="no_photo">相册没有图片</string>
+
+
+    <!--viewpager指示器-->
+    <string name="indicator">指示器</string>
+    <string name="indicatorMore">多样式的viewpagerIndicator</string>
+
+    <!--加载等待的动画-->
+    <string name="loadingLikeEle">仿饿了么加载动画</string>
+    <string name="loadingLikeEleMore">等待加载时候的跳跃动画</string>
+
+    <!--mi日历-->
+    <string name="miCalendar">仿小米日历</string>
+    <string name="miCalendarMore">仿小米日历显示</string>
+
+</resources>

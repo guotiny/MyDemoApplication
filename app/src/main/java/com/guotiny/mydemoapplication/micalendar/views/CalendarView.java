@@ -507,4 +507,10 @@ public class CalendarView extends View {
 			mOnCellCallBack.init(mShowDate);
 		}
 	}
+
+	public void setSelectedDate(int year,int month,int day){
+
+	}
+
+
 }

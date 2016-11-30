@@ -3,4 +3,10 @@
     <declare-styleable name="CircleTextView">
         <attr name="text" format="string"></attr>
     </declare-styleable>
+
+    <declare-styleable name="day">
+        <attr name="state_current" format="boolean" />
+    </declare-styleable>
+
+    <attr name="calendarViewStyle" format="reference" />
 </resources>

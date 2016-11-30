@@ -61,8 +61,10 @@ public class MainActivity extends ListActivity {
                     IndicatiorMainActivity.class),
             new DemoDetails(R.string.loadingLikeEle,R.string.loadingLikeEleMore,
                     LoadingViewLikeELEActivity.class),
+//            new DemoDetails(R.string.miCalendar,R.string.miCalendarMore,
+//                    MiCalendarActivity.class)
             new DemoDetails(R.string.miCalendar,R.string.miCalendarMore,
-                    MiCalendarActivity.class)
+                    CalendarActivity.class)
             };
 
     @Override

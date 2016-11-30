@@ -21,7 +21,8 @@
         <activity android:name=".takeimage.activity.ShowAllPhoto" />
         <activity android:name=".magicviewpagerindicator.IndicatiorMainActivity" />
         <activity android:name=".LoadingViewLikeELEActivity" />
-        <activity android:name=".MiCalendarActivity"></activity>
+        <activity android:name=".MiCalendarActivity" />
+        <activity android:name=".CalendarActivity"></activity>
     </application>
 
 </manifest>
